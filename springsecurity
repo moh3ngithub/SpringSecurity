@@ -26,3 +26,18 @@
     HTTP Authorization
 
 11-
+
+The following are the jar files that are included into Spring Security module.
+
+    spring-security-core.jar
+    spring-security-remoting.jar
+    spring-security-web.jar
+    spring-security-config.jar
+    spring-security-ldap.jar
+    spring-security-oauth2-core.jar
+    spring-security-oauth2-client.jar
+    spring-security-oauth2-jose.jar
+    spring-security-acl.jar
+    spring-security-cas.jar
+    spring-security-openid.jar
+    spring-security-test.jar
