@@ -1,0 +1,6 @@
+1-Spring Security is a framework that focuses on providing both authentication and authorization to Java applications
+2- It is one of the most powerful and highly customizable authentication and access control frameworks in the Java ecosystem.
+
+3-dependencies require for spring security app is spring-security-web and spring-security-config 
+
+5-
