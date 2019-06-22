@@ -6,3 +6,5 @@
 5-@EnableWebSecurity depicts, is used to enable SpringSecurity in our project. 
 
 6-the addition of tge annotation@EnableWebSecurity provides Spring Security and also provides MVC integration support.
+
+7-Spring Security is a framework which provides various security features like: authentication, authorization to create secure Java Enterprise Applications. 
