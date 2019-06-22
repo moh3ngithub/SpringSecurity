@@ -8,3 +8,21 @@
 6-the addition of tge annotation@EnableWebSecurity provides Spring Security and also provides MVC integration support.
 
 7-Spring Security is a framework which provides various security features like: authentication, authorization to create secure Java Enterprise Applications. 
+
+8-This framework targets two major areas of application are authentication and authorization
+
+9-Authorization is the process to allow authority to perform actions in the application.
+
+10-spring security feature:
+    LDAP (Lightweight Directory Access Protocol)
+    Single sign-on
+    JAAS (Java Authentication and Authorization Service) LoginModule
+    Basic Access Authentication
+    Digest Access Authentication
+    Remember-me
+    Web Form Authentication
+    Authorization
+    Software Localization
+    HTTP Authorization
+
+11-
