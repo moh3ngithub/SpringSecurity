@@ -3,4 +3,6 @@
 
 3-dependencies require for spring security app is spring-security-web and spring-security-config 
 
-5-
+5-@EnableWebSecurity depicts, is used to enable SpringSecurity in our project. 
+
+6-the addition of tge annotation@EnableWebSecurity provides Spring Security and also provides MVC integration support.
